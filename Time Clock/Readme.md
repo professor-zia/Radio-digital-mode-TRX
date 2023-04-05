@@ -6,3 +6,4 @@ Arduino Real Time Clock: https://www.circuitbasics.com/how-to-use-a-real-time-cl
 
 Setting Time on DS-3231: https://www.instructables.com/Simple-Guide-to-Setting-Time-on-a-DS3231DS3107DS13/
 
+Synchronise DS3231 RTC With PC Via Arduino: https://www.instructables.com/Synchronise-DS3221-RTC-with-PC-via-Arduino/
